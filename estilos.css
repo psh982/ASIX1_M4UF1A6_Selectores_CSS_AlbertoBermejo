@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+   
+    .text{
+    position: absolute;
+    margin-left: 40%;
+    color: darkcyan;
+}
+.cont{
+    border-style: solid;
+    border-color: darkcyan;
+    border-bottom: 20%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 2%;
+    margin-right: 15%;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+.lol{
+    position: absolute;
+    margin-left: 15%; 
+    margin-right: 15%;
+}
+.ralla1{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.cont2{
+    border-style:solid;
+    border-color: darkcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: darkcyan;
+    color: lightcyan;
+    border-radius: 5px;
+}
+.cont3{
+    border-style:solid;
+    border-radius: 5px;
+    border-color: darkcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: darkcyan;
+    color: lightcyan;
+}   
+.p{
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.cont4{
+    border-style: solid;
+    border-color: darkcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: darkcyan;
+    color: lightcyan;
+    border-radius: 5px;
+}
+.cont5{
+    border-style: solid;
+    border-color: darkcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: darkcyan;
+    color: lightcyan;
+    border-radius: 5px;
+}
+.cont6{ 
+    border-color: darkcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: rgba(0, 139, 139, 0.529);
+    border-radius: 5px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}  
+.cont7{
+    margin-right: 15%;
+    margin-left: 15%;
+    border-style: solid;
+    color: darkcyan;
+    border-radius: 5px;
+}
+#p{
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+}
+.pin1{
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+}
+.pin2{
+    border-color: black;
+    background-color: black;
+    color: lightcyan;
+}
+.pin3{
+    color: blue;
+}
+.pichu{
+    color: blue;
+    text-decoration: none;
+}
